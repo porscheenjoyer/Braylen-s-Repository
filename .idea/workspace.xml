@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="906790ef-c388-406e-98a1-493e9d07a049" name="Changes" comment="139">
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+    <list default="true" id="906790ef-c388-406e-98a1-493e9d07a049" name="Changes" comment="142">
+      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task1" />
       <module name="Module4PracticeProblems" />
@@ -56,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
+      <module name="Module4PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
@@ -94,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707244783628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="142">
+      <created>1707244955017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707244955017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="b" />
     <MESSAGE value="139" />
-    <option name="LAST_COMMIT_MESSAGE" value="139" />
+    <MESSAGE value="142" />
+    <option name="LAST_COMMIT_MESSAGE" value="142" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
